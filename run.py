@@ -81,4 +81,4 @@ class dl_model():
 
 
 if __name__ == '__main__':
-    dl_model(sys.argv[1:]).execute()
+    dl_model(sys.argv[0:]).execute()
